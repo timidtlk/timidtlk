@@ -1,15 +1,4 @@
-<!--START_SECTION:waka-->
-
-```text
-From: 27 November 2022 - To: 28 November 2022
-
-Total Time: 13 mins
-
-Markdown   12 mins         >>>>>>>>>>>>>>>>>>>>>>>>-   97.52 %
-Other      0 secs          >------------------------   02.48 %
-```
-
-<!--END_SECTION:waka-->
+#🏳️‍🌈
 
 ```cpp
 #include <iostream>
@@ -27,5 +16,18 @@ int main() {
 }
 ```
 
+##### 📚 WAKATIME METRICS: 
 
+<!--START_SECTION:waka-->
+
+```text
+From: 27 November 2022 - To: 28 November 2022
+
+Total Time: 13 mins
+
+Markdown   12 mins         >>>>>>>>>>>>>>>>>>>>>>>>-   97.52 %
+Other      0 secs          >------------------------   02.48 %
+```
+
+<!--END_SECTION:waka-->
 
