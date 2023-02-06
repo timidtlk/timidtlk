@@ -21,7 +21,7 @@ int main() {
 <!--START_SECTION:waka-->
 
 ```text
-From: 27 November 2022 - To: 03 February 2023
+From: 27 November 2022 - To: 04 February 2023
 
 Total Time: 26 hrs 5 mins
 
