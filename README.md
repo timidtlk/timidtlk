@@ -10,7 +10,7 @@ int main() {
     t.name = "TimidTLK";
     t.pronouns = "He/Him";
     t.languages[] = {"HTML", "CSS", "Java", "Python"};
-    t.learning[] = {"JavaScript", "C++", "LWJGL"};
+    t.learning[] = {"JavaScript", "C++", "LWJGL", "C#"};
 
     return 0;
 }
