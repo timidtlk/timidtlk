@@ -1,5 +1,3 @@
-# 🏳️‍🌈
-
 ```cpp
 #include <iostream>
 
