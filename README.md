@@ -1,13 +1,17 @@
-### `Sobre Mim`
+### **Sobre Mim**
 ```cpp
-User t;
+int main() {
+  User t;
 
-t.name = "Gustavo Santos Gil";
-t.username = "TimidTLK";
-t.pronouns = "He/Him";
-t.languages[] = { "Java", "Python", "JavaScript", "PHP" };
-t.skills[] = { "HTML", "CSS", "Spring Boot", "Hibernate/JPA", "React" };
-t.learning[] = { "C", "C++", "C#", "OpenGL" };
+  t.name = "Gustavo Santos Gil";
+  t.username = "TimidTLK";
+  t.pronouns = "He/Him";
+  t.languages[] = { "Java", "Python", "JavaScript", "PHP" };
+  t.skills[] = { "HTML", "CSS", "Spring Boot", "Hibernate/JPA", "React" };
+  t.learning[] = { "C", "C++", "C#", "OpenGL" };
+
+  return 0;
+}
 ```
 
 ### **Estatísticas do GitHub**
@@ -27,3 +31,4 @@ t.learning[] = { "C", "C++", "C#", "OpenGL" };
 ---
 
 By [TimidTLK](https://github.com/TimidTLK)
+
