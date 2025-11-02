@@ -18,8 +18,8 @@ int main() {
 
 <div align="center">
   <a href="https://github.com/TimidTLK">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=timidtlk&show_icons=true&theme=github-dark&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=timidtlk&layout=donut&theme=github-dark"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=timidtlk&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=timidtlk&layout=donut&theme=github_dark"/>
   </a>
 </div>
 
@@ -31,5 +31,6 @@ int main() {
 ---
 
 By [TimidTLK](https://github.com/TimidTLK)
+
 
 
